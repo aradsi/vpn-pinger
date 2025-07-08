@@ -1,0 +1,294 @@
+[
+  {
+    "name": "Jp-Free-8.Protonvpn.Udp",
+    "station": "212.102.51.241"
+  },
+  {
+    "name": "Nl-Free-1.Protonvpn.Udp (1)",
+    "station": "217.23.3.76"
+  },
+  {
+    "name": "Nl-Free-1.Protonvpn.Udp",
+    "station": "217.23.3.76"
+  },
+  {
+    "name": "Nl-Free-12.Protonvpn.Udp",
+    "station": "138.199.7.159"
+  },
+  {
+    "name": "Nl-Free-13.Protonvpn.Udp",
+    "station": "89.39.107.188"
+  },
+  {
+    "name": "Nl-Free-14.Protonvpn.Udp",
+    "station": "89.39.107.109"
+  },
+  {
+    "name": "Nl-Free-16.Protonvpn.Udp",
+    "station": "89.39.107.185"
+  },
+  {
+    "name": "Nl-Free-34.Protonvpn.Udp",
+    "station": "185.177.125.213"
+  },
+  {
+    "name": "Nl-Free-35.Protonvpn.Udp",
+    "station": "185.177.125.174"
+  },
+  {
+    "name": "Nl-Free-38.Protonvpn.Udp",
+    "station": "190.2.153.215"
+  },
+  {
+    "name": "Nl-Free-43.Protonvpn.Udp",
+    "station": "169.150.196.71"
+  },
+  {
+    "name": "Nl-Free-45.Protonvpn.Udp",
+    "station": "169.150.196.83"
+  },
+  {
+    "name": "Nl-Free-49.Protonvpn.Udp",
+    "station": "169.150.196.96"
+  },
+  {
+    "name": "Nl-Free-50.Protonvpn.Udp",
+    "station": "169.150.196.97"
+  },
+  {
+    "name": "Nl-Free-53.Protonvpn.Udp",
+    "station": "169.150.196.100"
+  },
+  {
+    "name": "Nl-Free-55.Protonvpn.Udp",
+    "station": "138.199.7.234"
+  },
+  {
+    "name": "Nl-Free-56.Protonvpn.Udp",
+    "station": "138.199.7.250"
+  },
+  {
+    "name": "Nl-Free-57.Protonvpn.Udp",
+    "station": "138.199.7.251"
+  },
+  {
+    "name": "Nl-Free-64.Protonvpn.Udp",
+    "station": "93.190.142.102"
+  },
+  {
+    "name": "Nl-Free-65.Protonvpn.Udp",
+    "station": "109.236.81.160"
+  },
+  {
+    "name": "Nl-Free-66.Protonvpn.Udp",
+    "station": "93.190.141.58"
+  },
+  {
+    "name": "Nl-Free-67.Protonvpn.Udp",
+    "station": "185.183.34.27"
+  },
+  {
+    "name": "Nl-Free-68.Protonvpn.Udp",
+    "station": "185.183.34.149"
+  },
+  {
+    "name": "Nl-Free-69.Protonvpn.Udp",
+    "station": "185.183.34.165"
+  },
+  {
+    "name": "Nl-Free-70.Protonvpn.Udp",
+    "station": "185.180.222.89"
+  },
+  {
+    "name": "Nl-Free-71.Protonvpn.Udp",
+    "station": "109.236.81.166"
+  },
+  {
+    "name": "Nl-Free-72.Protonvpn.Udp",
+    "station": "93.190.138.166"
+  },
+  {
+    "name": "Nl-Free-73.Protonvpn.Udp",
+    "station": "190.2.147.7"
+  },
+  {
+    "name": "Nl-Free-74.Protonvpn.Udp",
+    "station": "89.38.97.138"
+  },
+  {
+    "name": "Nl-Free-75.Protonvpn.Udp",
+    "station": "185.183.33.219"
+  },
+  {
+    "name": "Nl-Free-81.Protonvpn.Udp",
+    "station": "185.177.126.134"
+  },
+  {
+    "name": "Nl-Free-82.Protonvpn.Udp",
+    "station": "185.177.126.102"
+  },
+  {
+    "name": "Nl-Free-88.Protonvpn.Udp",
+    "station": "89.39.104.193"
+  },
+  {
+    "name": "Nl-Free-89.Protonvpn.Udp",
+    "station": "89.39.106.191"
+  },
+  {
+    "name": "Nl-Free-218.Protonvpn.Udp",
+    "station": "185.165.240.80"
+  },
+  {
+    "name": "Nl-Free-219.Protonvpn.Udp",
+    "station": "185.132.132.26"
+  },
+  {
+    "name": "Nl-Free-220.Protonvpn.Udp",
+    "station": "185.165.242.20"
+  },
+  {
+    "name": "Nl-Free-221.Protonvpn.Udp",
+    "station": "185.132.132.113"
+  },
+  {
+    "name": "Pl-Free-1.Protonvpn.Udp",
+    "station": "149.102.244.97"
+  },
+  {
+    "name": "Ro-Free-1.Protonvpn.Udp",
+    "station": "149.102.239.225"
+  },
+  {
+    "name": "Ro-Free-5.Protonvpn.Udp",
+    "station": "138.199.53.237"
+  },
+  {
+    "name": "Ro-Free-9.Protonvpn.Udp",
+    "station": "138.199.53.242"
+  },
+  {
+    "name": "Ro-Free-13.Protonvpn.Udp",
+    "station": "138.199.53.247"
+  },
+  {
+    "name": "Us-Free-2.Protonvpn.Udp",
+    "station": "89.187.185.161"
+  },
+  {
+    "name": "Us-Free-3.Protonvpn.Udp",
+    "station": "195.181.163.1"
+  },
+  {
+    "name": "Us-Free-5.Protonvpn.Udp",
+    "station": "149.40.62.21"
+  },
+  {
+    "name": "Us-Free-6.Protonvpn.Udp",
+    "station": "37.19.200.1"
+  },
+  {
+    "name": "Us-Free-7.Protonvpn.Udp",
+    "station": "89.187.179.55"
+  },
+  {
+    "name": "Us-Free-8.Protonvpn.Udp",
+    "station": "156.146.54.81"
+  },
+  {
+    "name": "Us-Free-9.Protonvpn.Udp",
+    "station": "89.187.180.1"
+  },
+  {
+    "name": "Us-Free-10.Protonvpn.Udp (1)",
+    "station": "89.187.177.71"
+  },
+  {
+    "name": "Us-Free-10.Protonvpn.Udp",
+    "station": "89.187.177.71"
+  },
+  {
+    "name": "Us-Free-11.Protonvpn.Udp",
+    "station": "195.181.162.163"
+  },
+  {
+    "name": "Us-Free-14.Protonvpn.Udp",
+    "station": "89.187.170.159"
+  },
+  {
+    "name": "Us-Free-15.Protonvpn.Udp",
+    "station": "37.19.200.22"
+  },
+  {
+    "name": "Us-Free-16.Protonvpn.Udp",
+    "station": "37.19.200.17"
+  },
+  {
+    "name": "Us-Free-17.Protonvpn.Udp",
+    "station": "37.19.199.144"
+  },
+  {
+    "name": "Us-Free-37.Protonvpn.Udp",
+    "station": "84.17.45.156"
+  },
+  {
+    "name": "Us-Free-40.Protonvpn.Udp",
+    "station": "37.19.221.193"
+  },
+  {
+    "name": "Us-Free-48.Protonvpn.Udp",
+    "station": "89.187.180.54"
+  },
+  {
+    "name": "Us-Free-50.Protonvpn.Udp",
+    "station": "156.146.51.129"
+  },
+  {
+    "name": "Us-Free-53.Protonvpn.Udp",
+    "station": "146.70.174.66"
+  },
+  {
+    "name": "Us-Free-56.Protonvpn.Udp",
+    "station": "146.70.202.82"
+  },
+  {
+    "name": "Us-Free-61.Protonvpn.Udp",
+    "station": "149.88.25.129"
+  },
+  {
+    "name": "Us-Free-64.Protonvpn.Udp",
+    "station": "149.40.58.146"
+  },
+  {
+    "name": "Us-Free-155.Protonvpn.Udp (1)",
+    "station": "37.19.199.149"
+  },
+  {
+    "name": "Us-Free-155.Protonvpn.Udp",
+    "station": "37.19.199.149"
+  },
+  {
+    "name": "Jp-Free-1.Protonvpn.Udp",
+    "station": "103.125.235.18"
+  },
+  {
+    "name": "Jp-Free-2.Protonvpn.Udp",
+    "station": "138.199.22.102"
+  },
+  {
+    "name": "Jp-Free-4.Protonvpn.Udp",
+    "station": "138.199.21.193"
+  },
+  {
+    "name": "Jp-Free-5.Protonvpn.Udp",
+    "station": "138.199.21.206"
+  },
+  {
+    "name": "Jp-Free-6.Protonvpn.Udp",
+    "station": "138.199.22.103"
+  },
+  {
+    "name": "Jp-Free-7.Protonvpn.Udp",
+    "station": "45.14.71.7"
+  }
+]
